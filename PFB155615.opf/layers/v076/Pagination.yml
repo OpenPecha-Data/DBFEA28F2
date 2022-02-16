@@ -700,85 +700,85 @@ annotations:
     reference: ''
     span:
       start: 129674
-      end: 130939
+      end: 130941
     note_ref: 08cb25b04e4b45feb320ac0e80de367c
   f845bed3ab5142c2bb7ea04712e46858:
     imgnum: 124
     reference: ''
     span:
-      start: 130941
-      end: 132222
+      start: 130943
+      end: 132224
     note_ref: 08cb25b04e4b45feb320ac0e80de367c
   d544c0073fb147338cdc57fb38cf37bd:
     imgnum: 125
     reference: ''
     span:
-      start: 132224
-      end: 133547
+      start: 132226
+      end: 133549
     note_ref: 08cb25b04e4b45feb320ac0e80de367c
   390563394c604c49937cfa893404504f:
     imgnum: 126
     reference: ''
     span:
-      start: 133549
-      end: 134854
+      start: 133551
+      end: 134856
     note_ref: 08cb25b04e4b45feb320ac0e80de367c
   8b369e90f3364531832d04c819734827:
     imgnum: 127
     reference: ''
     span:
-      start: 134856
-      end: 136226
+      start: 134858
+      end: 136228
     note_ref: 08cb25b04e4b45feb320ac0e80de367c
   21bbcfb8db7944069ea88c8209b70518:
     imgnum: 128
     reference: ''
     span:
-      start: 136228
-      end: 137642
+      start: 136230
+      end: 137644
     note_ref: 08cb25b04e4b45feb320ac0e80de367c
   c77d8fc49ca84ef0a1a11fb6841ef5ba:
     imgnum: 129
     reference: ''
     span:
-      start: 137644
-      end: 139487
+      start: 137646
+      end: 139489
   0c3aa2b378e7472abbeea7c8ac23f9ab:
     imgnum: 130
     reference: ''
     span:
-      start: 139489
-      end: 141319
+      start: 139491
+      end: 141321
   b9e2513cde8e4c2194ff9c9725c9163a:
     imgnum: 131
     reference: ''
     span:
-      start: 141321
-      end: 143162
+      start: 141323
+      end: 143164
   9a2f34eb70714ed1b64cee0a7c43b825:
     imgnum: 132
     reference: ''
     span:
-      start: 143164
-      end: 145177
+      start: 143166
+      end: 145179
   ae4c6433f92149cc9dbecb73e30b9547:
     imgnum: 133
     reference: ''
     span:
-      start: 145179
-      end: 147080
+      start: 145181
+      end: 147082
   f9765a280c2d41f0aa7d4805140b5371:
     imgnum: 134
     reference: ''
     span:
-      start: 147082
-      end: 148928
+      start: 147084
+      end: 148930
   08cb25b04e4b45feb320ac0e80de367c:
     imgnum: 135
     reference: ''
     span:
-      start: 148930
-      end: 149951
+      start: 148932
+      end: 149953
   9c0683c7691649eabc4c08d2ed5d69fd:
     imgnum: 136
     reference: ''
